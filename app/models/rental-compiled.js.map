@@ -1,0 +1,1 @@
+{"version":3,"sources":["rental.js"],"names":[],"mappings":"AAAA,OAAO,EAAP,MAAe,YAAf;;AAEA,eAAe,GAAG,KAAH,CAAS,MAAT,CAAgB,EAAhB,CAAf","file":"rental-compiled.js","sourcesContent":["import DS from 'ember-data';\n\nexport default DS.Model.extend({\n  \n});\n"]}
